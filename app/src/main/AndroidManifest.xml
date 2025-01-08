@@ -23,12 +23,10 @@
             </intent-filter>
         </activity>
 
-        <!-- AddTaskPopUp Activity -->
         <activity
             android:name=".AddTaskPopUp"
             android:exported="false" />
 
-        <!-- MainActivity -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
